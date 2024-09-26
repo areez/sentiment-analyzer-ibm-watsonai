@@ -44,6 +44,16 @@ This project is inspired by IBM Skills Network's code practice materials.
 
 ## App Screenshot
 
-![image](https://github.com/user-attachments/assets/81940643-78c4-4831-a362-63a5af03d266)
+### Positive
+![image](https://github.com/user-attachments/assets/e47052f8-2ba7-4565-9ca4-ce9ee6eb8150)
+
+### Negative
+![image](https://github.com/user-attachments/assets/0de8b7e6-b9cd-4e35-883b-e740a9fed43b)
+
+### Neutral
+![image](https://github.com/user-attachments/assets/e20c6eec-3859-4bdd-a039-f1d4b1bb7e6d)
+
+
+
 
 
