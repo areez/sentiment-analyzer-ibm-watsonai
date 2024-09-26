@@ -41,3 +41,9 @@ The pre-trained BERT models are used to classify sentiment in input text, predic
 ## Acknowledgments
 
 This project is inspired by IBM Skills Network's code practice materials.
+
+## App Screenshot
+
+![image](https://github.com/user-attachments/assets/81940643-78c4-4831-a362-63a5af03d266)
+
+
